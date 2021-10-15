@@ -1,0 +1,183 @@
+{
+    "meals": [
+        {
+            "idMeal": 1,
+            "strMeal": "Healthy Meal",
+            "strDrinkAlternate": null,
+            "strCategory": "breakfast",
+            "strArea": "British",
+            "price": 4.65,
+            "strPara": "Who doesn’t love waking up to the smell of pancakes?",
+            "strMealThumb": "https:\/\/www.themealdb.com\/images\/media\/meals\/ysxwuq1487323065.jpg"
+        },
+        {
+            "idMeal": 2,
+            "strMeal": "Pancakes and Maple Syrup",
+            "strDrinkAlternate": null,
+            "strCategory": "breakfast",
+            "strArea": "British",
+            "price": 5.65,
+            "strPara": "Who doesn’t love waking up to the smell of pancakes?",
+            "strMealThumb": "https://foodfornet.com/wp-content/uploads/2015/06/shutterstock_289508381.jpg"
+        },
+        {
+            "idMeal": 3,
+            "strMeal": "Toasted English Muffin",
+            "strDrinkAlternate": null,
+            "strCategory": "breakfast",
+            "strArea": "British",
+            "price": 4.25,
+            "strPara": "Having a toasted English muffin can be an easy and fast option for breakfast.",
+            "strMealThumb": "https://foodfornet.com/wp-content/uploads/2015/06/shutterstock_223336237.jpg"
+        },
+        {
+            "idMeal": 4,
+            "strMeal": "Eggs Benedict",
+            "strDrinkAlternate": null,
+            "strCategory": "breakfast",
+            "strArea": "British",
+            "price": 4.95,
+            "strPara": "Eggs benedict is one of the most common example of using English muffins as a breakfast food",
+            "strMealThumb": "https://foodfornet.com/wp-content/uploads/2015/06/shutterstock_275108951.jpg"
+        },
+        {
+            "idMeal": 5,
+            "strMeal": "Eggs Benedict",
+            "strDrinkAlternate": null,
+            "strCategory": "breakfast",
+            "strArea": "British",
+            "price": 4.95,
+            "strPara": "Eggs benedict is one of the most common example of using English muffins as a breakfast food",
+            "strMealThumb": "https://foodfornet.com/wp-content/uploads/2015/06/shutterstock_275108951.jpg"
+        },
+        {
+            "idMeal": 6,
+            "strMeal": "Eggs Benedict",
+            "strDrinkAlternate": null,
+            "strCategory": "breakfast",
+            "strArea": "British",
+            "price": 4.95,
+            "strPara": "Eggs benedict is one of the most common example of using English muffins as a breakfast food",
+            "strMealThumb": "https://foodfornet.com/wp-content/uploads/2015/06/shutterstock_275108951.jpg"
+        },
+        {
+            "idMeal": 7,
+            "strMeal": "Roasted Cauliflower Tacos",
+            "strDrinkAlternate": null,
+            "strCategory": "lunch",
+            "price": 6.65,
+            "strArea": "British",
+            "strPara": "Roasted Cauliflower Tacos is one of the most common example of using English muffins as a lunch food",
+            "strMealThumb": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/cauliflower-tacos-1628779692.jpg?crop=0.645xw:0.645xh;0.238xw,0.169xh&resize=980:*"
+        },
+        {
+            "idMeal": 8,
+            "strMeal": "Shaved Carrot and Radish Salad",
+            "strDrinkAlternate": null,
+            "strCategory": "lunch",
+            "price": 6.75,
+            "strArea": "British",
+            "strPara": "Shaved Carrot and Radish Salad is one of the most common example of using English muffins as a lunch food",
+            "strMealThumb": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/spring-salads-spring-carrot-salad-recipe-1580519240.png?crop=0.9984732824427481xw:1xh;center,top&resize=980:*"
+        },
+        {
+            "idMeal": 9,
+            "strMeal": "Salmon Niçoise Salad",
+            "strDrinkAlternate": null,
+            "strCategory": "lunch",
+            "price": 6.25,
+            "strArea": "British",
+            "strPara": "Salmon Niçoise Salad is one of the most common example of using English muffins as a lunch food",
+            "strMealThumb": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/salmon-nicoise-salad-1622138460.jpg?crop=0.452xw:0.816xh;0.253xw,0.0470xh&resize=980:*"
+        },
+        {
+            "idMeal": 10,
+            "strMeal": "Vegan Caesar Salad",
+            "strDrinkAlternate": null,
+            "strCategory": "lunch",
+            "price": 6.45,
+            "strArea": "British",
+            "strPara": "Vegan Caesar Salad is one of the most common example of using English muffins as a lunch food",
+            "strMealThumb": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/vegan-caesar-salad-1615995581.jpg?crop=1xw:1xh;center,top&resize=980:*"
+        },
+        {
+            "idMeal": 11,
+            "strMeal": "Vegan Caesar Salad",
+            "strDrinkAlternate": null,
+            "strCategory": "lunch",
+            "price": 6.45,
+            "strArea": "British",
+            "strPara": "Vegan Caesar Salad is one of the most common example of using English muffins as a lunch food",
+            "strMealThumb": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/vegan-caesar-salad-1615995581.jpg?crop=1xw:1xh;center,top&resize=980:*"
+        },
+        {
+            "idMeal": 12,
+            "strMeal": "Vegan Caesar Salad",
+            "strDrinkAlternate": null,
+            "strCategory": "lunch",
+            "price": 6.45,
+            "strArea": "British",
+            "strPara": "Vegan Caesar Salad is one of the most common example of using English muffins as a lunch food",
+            "strMealThumb": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/vegan-caesar-salad-1615995581.jpg?crop=1xw:1xh;center,top&resize=980:*"
+        },
+        {
+            "idMeal": 13,
+            "strMeal": "Guilt Free Galouti Kebab Recipe",
+            "strDrinkAlternate": null,
+            "strCategory": "dinner",
+            "strArea": "British",
+            "strPara": "Guilt Free Galouti Kebab Recipe Salad is one of the most common example of using English muffins as a lunch food",
+            "strMealThumb": "https://i.ndtvimg.com/i/2017-10/galouti-kebab-recipe_620x330_81508755657.jpg"
+        },
+        {
+            "idMeal": 14,
+            "strMeal": "Keema Biryani",
+            "strDrinkAlternate": null,
+            "strCategory": "dinner",
+            "price": 7.75,
+            "strArea": "British",
+            "strPara": "Keema Biryani Salad is one of the most common example of using English muffins as a lunch food",
+            "strMealThumb": "https://i.ndtvimg.com/i/2015-06/indian-dinner_625x350_61434360531.jpg"
+        },
+        {
+            "idMeal": 15,
+            "strMeal": "Shahi Egg Curry",
+            "strDrinkAlternate": null,
+            "strCategory": "dinner",
+            "price": 7.15,
+            "strArea": "British",
+            "strPara": "Shahi Egg Curry Salad is one of the most common example of using English muffins as a lunch food",
+            "strMealThumb": "https://i.ndtvimg.com/i/2015-06/indian-dinner_625x350_61434362285.jpg"
+        },
+        {
+            "idMeal": 16,
+            "strMeal": "Shahi Egg Curry",
+            "strDrinkAlternate": null,
+            "strCategory": "dinner",
+            "price": 7.15,
+            "strArea": "British",
+            "strPara": "Shahi Egg Curry Salad is one of the most common example of using English muffins as a lunch food",
+            "strMealThumb": "https://i.ndtvimg.com/i/2015-06/indian-dinner_625x350_61434362285.jpg"
+        },
+        {
+            "idMeal": 17,
+            "strMeal": "Shahi Egg Curry",
+            "strDrinkAlternate": null,
+            "strCategory": "dinner",
+            "price": 7.15,
+            "strArea": "British",
+            "strPara": "Shahi Egg Curry Salad is one of the most common example of using English muffins as a lunch food",
+            "strMealThumb": "https://i.ndtvimg.com/i/2015-06/indian-dinner_625x350_61434362285.jpg"
+        },
+        {
+            "idMeal": 18,
+            "strMeal": "Mutton Do Pyaaza",
+            "strDrinkAlternate": null,
+            "strCategory": "dinner",
+            "price": 6.75,
+            "strArea": "British",
+            "strPara": "Mutton Do Pyaaza Salad is one of the most common example of using English muffins as a lunch food",
+            "strMealThumb": "https://i.ndtvimg.com/i/2017-11/mutton-recipes_620x333_51510570345.jpg"
+        }
+    ]
+}
